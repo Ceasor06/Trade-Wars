@@ -6,7 +6,7 @@
 **Investigating the Application of Multi-Agent Reinforcement Learning Algorithms in a Custom Stock Trading Environment Using Historical Data from S&P 100 Index.**
 
 ## This project was part of my coursework: Reinforcement Learning under the guidance of Prof. Alina Vereshchaka @ University at Buffalo.
-<img align="right" width=450 src="https://user-images.githubusercontent.com/105945382/211739166-c812c826-0171-43cb-9855-2bc694ceb2ef.png" />
+<img align="right" width=200 src="https://github.com/Ceasor06/Trade-Wars/blob/main/7cb45faf3f3893fcb6590466ef69a51a.jpg" />
 
 Floods are a recurrent phenomenon, the most common natural disaster in India, which cause huge loss of lives and 
 damage to livelihood systems, property, 
