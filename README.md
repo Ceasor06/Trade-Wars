@@ -3,10 +3,9 @@
 
 ![image](https://github.com/Ceasor06/Trade-Wars/assets/105945382/e56d9574-a20b-4311-a740-e8216114f34d)
 
-**A comparative study between different machine learning and deep learning algorithms to predict future flood disasters by analyzing 
-historical data of previous flood data that ocurred in _Assam_ from 1926 to 2015.**
+**Investigating the Application of Multi-Agent Reinforcement Learning Algorithms in a Custom Stock Trading Environment Using Historical Data from S&P 100 Index.**
 
-## This project was done under Internship programme at NUS-School of Computing in December 2022
+## This project was part of my coursework: Reinforcement Learning under the guidance of Prof. Alina Vereshchaka @ University at Buffalo.
 <img align="right" width=450 src="https://user-images.githubusercontent.com/105945382/211739166-c812c826-0171-43cb-9855-2bc694ceb2ef.png" />
 
 Floods are a recurrent phenomenon, the most common natural disaster in India, which cause huge loss of lives and 
