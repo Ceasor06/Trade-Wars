@@ -1,7 +1,7 @@
 # Trade-Wars
 
-![image](https://github.com/Ceasor06/Trade-Wars/assets/105945382/8199b10f-9514-438a-bc0e-beab6846aa88)
-<hr>
+
+![image](https://github.com/Ceasor06/Trade-Wars/assets/105945382/e56d9574-a20b-4311-a740-e8216114f34d)
 
 **A comparative study between different machine learning and deep learning algorithms to predict future flood disasters by analyzing 
 historical data of previous flood data that ocurred in _Assam_ from 1926 to 2015.**
