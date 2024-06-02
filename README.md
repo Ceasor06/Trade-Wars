@@ -25,10 +25,11 @@ The primary components of the environment include initialization, action space, 
 <br>
 </br>
 
-_Attributes of our Dataset:_
 
 <img width="569" alt="image" src="https://github.com/Ceasor06/Trade-Wars/blob/main/39b25e27-04c6-40b3-8fbd-4e48b06b3253.png">
 
+
+<img width="569" alt="image" src="https://github.com/Ceasor06/Trade-Wars/blob/main/2a23f4dc-16b9-4a8c-b21f-57b4eadad235.png">
 
 <hr>
 
@@ -44,9 +45,7 @@ _Attributes of our Dataset:_
 
 ## Future Work
 
-- There is still need of more quality data flood of India, especially of rural areas where impact of flood is more devastating than other areas. 
 
-- Creating a proper dataset having more attributes will make our model more accurate than before which in turn will help our client achieve accurate results.
 
 - Using real time data using satellites to make accurate and localised predictions.
 
