@@ -1,6 +1,6 @@
 # Trade-Wars
 
-![Flash-Flood_Floods_KIDS_1022_2x1](https://user-images.githubusercontent.com/105945382/211735853-064fd590-47e1-4c0e-a2f0-f35103c8e131.jpg)
+![image](https://github.com/Ceasor06/Trade-Wars/assets/105945382/8199b10f-9514-438a-bc0e-beab6846aa88)
 <hr>
 
 **A comparative study between different machine learning and deep learning algorithms to predict future flood disasters by analyzing 
