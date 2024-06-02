@@ -47,5 +47,3 @@ The primary components of the environment include initialization, action space, 
 
 
 
-- Using real time data using satellites to make accurate and localised predictions.
-
