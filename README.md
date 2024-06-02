@@ -27,8 +27,7 @@ The primary components of the environment include initialization, action space, 
 
 _Attributes of our Dataset:_
 
-<img width="569" alt="image" src="https://user-images.githubusercontent.com/105945382/211894966-895f0fe1-d009-46c2-ba97-2e4282ab525c.png">
-
+<img width="569" alt="image" src="https://github.com/Ceasor06/Trade-Wars/blob/main/39b25e27-04c6-40b3-8fbd-4e48b06b3253.png">
 
 
 <hr>
