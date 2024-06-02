@@ -18,13 +18,9 @@ Our findings reveal the strengths and limitations of each algorithm, providing v
 
 ## Gym - Environment
 
-- We took data from the [Indian Flood Inventory](https://link.springer.com/article/10.1007/s11069-021-04698-6) to find the dates for floods.
+Our custom trading environment, named 'StockEnvironment', is designed following the gymnasium standards to simulate a realistic stock trading scenario. In this environment, multiple RL agents interact, each utilizing a different algorithm to make trading decisions. 
 
-- We extracted the information of Rain statewise data from [India Environment Portal](http://www.indiaenvironmentportal.org.in/media/iep/infographics/Rainfall%20in%20India/112%20years%20of%20rainfall.html).
-
-- We have also extracted information of population from [world bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN)  
-
-- and [temperature](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data ) and made a dataset using all these features to perform our time series analysis.
+The primary components of the environment include initialization, action space, observation space, and the methods to reset and step through the environment.
 
 <br>
 </br>
