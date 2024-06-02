@@ -16,7 +16,7 @@ Our findings reveal the strengths and limitations of each algorithm, providing v
 
 <hr>
 
-## Dataset Used 
+## Gym - Environment
 
 - We took data from the [Indian Flood Inventory](https://link.springer.com/article/10.1007/s11069-021-04698-6) to find the dates for floods.
 
