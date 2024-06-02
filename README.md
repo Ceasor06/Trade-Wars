@@ -8,14 +8,11 @@
 ## This project was part of my coursework: Reinforcement Learning under the guidance of Prof. Alina Vereshchaka @ University at Buffalo.
 <img align="right" width=200 src="https://github.com/Ceasor06/Trade-Wars/blob/main/7cb45faf3f3893fcb6590466ef69a51a.jpg" />
 
-Floods are a recurrent phenomenon, the most common natural disaster in India, which cause huge loss of lives and 
-damage to livelihood systems, property, 
-infrastructure and public utilities. 
-On average nearly 1600 people die every year due to floods, 75 lakh hectares of land is affected and the damage caused to crops, 
-houses and public utilities is Rs. 1805 crores due to floods.
-Flood prediction is difficult to predict due to its nonlinear and dynamic nature, 
-various researchers have tackled this problem using different techniques ranging from physical models to image processing, 
-we picked up time series forecasting by creating our own dataset from scratch extracted from different stations and government of India websites.
+The "RL Trade Wars: Investments Across Timeframes" project explores the application of various reinforcement learning (RL) algorithms to algorithmic trading strategies in a competitive market environment. This project aims to evaluate how different RL-based trading algorithms perform and adapt when faced with dynamic market conditions and interactions among multiple agents. By simulating a stock trading environment with historical data from the S&P 100 index, we seek to uncover insights into the effectiveness and adaptability of RL methods in making investment decisions.
+
+The project involves the development of a custom trading environment where multiple RL agents, each employing distinct algorithms, interact with the market. We implemented and tested several RL algorithms, including Deep Q-Learning (DQN), Double Deep Q-Learning (DDQN), and Advantage Actor-Critic (A2C), to understand their behavior and performance in this simulated trading scenario.
+
+Our findings reveal the strengths and limitations of each algorithm, providing valuable insights into their suitability for real-world trading applications. The ultimate goal is to identify strategies that can potentially lead to more profitable and stable trading outcomes in a competitive financial market.
 
 <hr>
 
