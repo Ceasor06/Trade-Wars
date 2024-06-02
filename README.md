@@ -34,11 +34,11 @@ _Attributes of our Dataset:_
 
 ## Models used
 
-- XG-B Classifier : [Model1](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model1)
+- Double - DQN : [Model1](https://github.com/Ceasor06/Trade-Wars/blob/main/Algorithms/DDQN_1.ipynb)
 
-- Random Forest : [Model2](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model2)
+- DQN : [Model2](https://github.com/Ceasor06/Trade-Wars/blob/main/Algorithms/DQN_1.ipynb)
 
-- Artificial Neural Network : [Model3](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model3)
+- A2C : [Model3](https://github.com/Ceasor06/Trade-Wars/blob/main/Algorithms/A2C_25.ipynb)
 
 <hr>
 
